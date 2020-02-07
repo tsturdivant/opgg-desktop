@@ -1,0 +1,8 @@
+# venv stuff
+/env
+
+# vscode junk
+/.vscode
+
+# stuff from the extension 
+/extension_code
