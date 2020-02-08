@@ -1,2 +1,2 @@
-# opgg-desktop
-A desktop app that will show op.gg information of your League of Legends Team. Based on the op.gg extension for Google Chrome.
+# Develop Branch 
+The branch that is under current development but not yet ready for merging with master. 
