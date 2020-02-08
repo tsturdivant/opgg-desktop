@@ -1,2 +1,2 @@
-# Develop Branch 
-The branch that is under current development but not yet ready for merging with master. 
+# op.gg Desktop App
+Displays op.gg information in real time based on the op.gg Chrome Extension
