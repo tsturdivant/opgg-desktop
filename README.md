@@ -1,2 +1,2 @@
-# pyqt5setup Branch
-Following a tutorial to familiarize myself with how to use and setup pyqt5.
+# Develop Branch 
+The branch that is under current development but not yet ready for merging with master. 
